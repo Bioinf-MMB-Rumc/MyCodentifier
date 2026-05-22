@@ -1,6 +1,6 @@
 ![Alt text](bin/MycoprofilerUtils/report/logo.png?raw=true "logo")
 
-# TB/NTM species identification pipeline Version 1.0 (beta)
+# TB/NTM species identification pipeline Version 1.3.1
 
 # Short Description
 The pipeline is constructed using nextflow as workflow manager running in a docker container.
